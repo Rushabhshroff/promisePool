@@ -11,7 +11,7 @@ yarn add @rushabhshroff/promisepool
 
 ## Usage
 ```
-const PromisePool = require('promisepool');
+const PromisePool = require('@rushabhshroff/promisepool');
 
 //Create a new pool with concurrency 3
 
