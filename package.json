@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": ["promosepool","limit concurrency","promise-pool","promise limit"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,4 +17,5 @@
     "url": "https://github.com/Rushabhshroff/promisePool/issues"
   },
   "homepage": "https://github.com/Rushabhshroff/promisePool#readme"
+  
 }
