@@ -1,4 +1,13 @@
 # Promise Pool
+## Installation
+
+```
+npm install @rushabhshroff/promisepool
+
+or
+
+yarn add @rushabhshroff/promisepool
+```
 
 ## Usage
 ```

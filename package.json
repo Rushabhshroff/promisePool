@@ -1,5 +1,5 @@
 {
-  "name": "promisepool",
+  "name": "@rushabhshroff/promisepool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
